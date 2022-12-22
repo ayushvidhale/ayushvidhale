@@ -22,7 +22,7 @@
 </p>
 
 
-<h1 align="center">Tech Stack 📚📚</h1>
+<h1 align="left">Tech Stack 📚📚</h1>
 
 <h2 align="left">Languages </h2>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
