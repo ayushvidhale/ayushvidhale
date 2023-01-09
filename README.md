@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack developer from India.</h3>
 
 
-- 🔭 I’m currently working on [BraveOkays.com](https://braveokays.com/)
+- 🔭 I’m currently working on [GatiKi.club](https://braveokays.com/)
 
 - 🌱 I’m currently learning **NextJS, DSA and JAVA**
 
