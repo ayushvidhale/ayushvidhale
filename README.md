@@ -6,11 +6,9 @@
 
 - 🌱 I’m currently learning **NextJS, DSA and JAVA**
 
-- 👨‍💻 All of my projects are available at [https://ayushvidhale.github.io/portfolio/](https://ayushvidhale.github.io/portfolio/)
+- 👨‍💻 Know about my experiences at [https://official-portfolio-wine.vercel.app/](https://official-portfolio-wine.vercel.app/)
 
 - 💬 Ask me about **Freelancing, Building SaaS and Marketing**
-
-- 📄 Know about my experiences [https://ayushvidhale.github.io/portfolio/](https://ayushvidhale.github.io/portfolio/)
 
 - ⚡ Fun fact : **"Cats are Cute"**
 
